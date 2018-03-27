@@ -1,4 +1,4 @@
-Autoprocess is a Back Office module that take care of all the daily webshop routines automatically. Also some of the routines that everybody else tell's you is impossible to do automatically. It is in most cases a question of creating systematic ways to treat your orders, in order to make it possible to be done fully automatically. 
+Autoprocess is a Prestashop Back Office module that take care of all the daily webshop routines automatically. Also some of the routines that everybody else tell's you is impossible to do automatically. It is in most cases a question of creating systematic ways to treat your orders, in order to make it possible to be done fully automatically. 
 
 NOTE: this module is dependent on module https://github.com/michaelhjulskov/manageorderstatus
 
@@ -11,3 +11,5 @@ Donate to paypal michael( a )hjulskov.dk
 Donate to bitcoin address 12MtDHm5hSMn4QW5UzQUfCwHqLTKZFsBMX
 
 Need assistance to implement this awesome module in your webshop? Contact michael( a )hjulskov.dk (i always charge per hour! never fixed price!)
+
+This module is meant for experienced prestashop developers to implement in big webshops with many orders. Do not implement in your Prestashop if you are a newbie prestashop developer. There are some examples of functions to take care of various tasks in autoprocess.php file, please only use those fuction only for inspiration.
