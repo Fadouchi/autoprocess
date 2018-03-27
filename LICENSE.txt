@@ -1,0 +1,32 @@
+**********************************************************************************************************
+* If you do not agree to the terms of this EULA, do not install or use Autoprocess module. *
+**********************************************************************************************************
+
+ End User License Agreement for Autoprocess module for Prestashop - legal agreement between
+ customer (you) on one side and developers (Michael Hjulskov) on the other side.
+ By downloading or purchasing this module you agree to be bound by the terms of this EULA.
+
+
+*** Copyright ***
+ The Autoprocess module is protected by copyright laws and international copyright treaties, as
+ well as other intellectual property laws and treaties.
+
+*** Limitations ***
+ You may not redistribute, resell, reverse engineer or decompile this software.
+
+*** Warranty and limitation of liability ***
+ We expressly disclaims any warranty for Autoprocess module. The module is provided 'As Is' without
+ any express or implied warranty of any kind.
+
+ In no event shall we be liable for any damages (including, without limitation, lost profits, business
+ interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the
+ Autoprocess  module, even if we have been advised of the possibility of such damages. In no event
+ will we be liable for loss of data or for indirect, special, incidental, consequential (including lost
+ profit),  or other damages based in contract, tort or otherwise.
+
+ Otherwise, general site's Terms and Conditions apply.
+
+
+**********************************************************************************************************
+* If you disagree to the terms of this EULA, do not install or use Autoprocess module. *
+**********************************************************************************************************
